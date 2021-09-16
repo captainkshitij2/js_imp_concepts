@@ -17,3 +17,15 @@ function watchTutorialPromise() {
     }
   });
 }
+//--------------------------------------------
+// function factorial (numb)
+// {
+//     var sam = 1 ;
+//     for (var i=1; i<=numb; i++)
+//     {
+//         sam=sam*i
+//     }
+//     return sam;
+// }
+// console.log(factorial(4))
+//--------------------------------------------
